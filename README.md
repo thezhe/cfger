@@ -1,3 +1,3 @@
-# pyutemplate
+# cfger
 
-Python micro-package template
+CLI that loads a TOML file
